@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "2ze/TmlmtK4VEzfXtYz4SV8QprrlEg7L6tFpY29WZOTQkt52XxEbcSjg8Fy+OX76CDjWM7MD/0ei/dYIZ5H6Xw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aruch\\RiderProjects\\WebScraperTelegramBot\\WebScraper\\WebScraper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aruch\\.nuget\\packages\\htmlagilitypack\\1.11.54\\htmlagilitypack.1.11.54.nupkg.sha512",
+    "C:\\Users\\aruch\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\aruch\\.nuget\\packages\\nuglify\\1.21.0\\nuglify.1.21.0.nupkg.sha512",
+    "C:\\Users\\aruch\\.nuget\\packages\\telegram.bot\\19.0.0\\telegram.bot.19.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
